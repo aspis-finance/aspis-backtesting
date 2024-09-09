@@ -1,0 +1,6 @@
+{
+    "stop_loss": [2.5],
+    "sizing": [2000],
+    "oversold_level": [75],
+    "overbought_level": [30]
+}

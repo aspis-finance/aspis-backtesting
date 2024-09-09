@@ -1,0 +1,7 @@
+{
+    "stop_loss": [2.5],
+    "sizing": [2000],
+    "rsi_threshold": [30],
+    "ma_short": [10],
+    "ma_long": [35]
+}

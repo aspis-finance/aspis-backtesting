@@ -1,0 +1,12 @@
+[
+    {"symbol": "AVAX/USDT", "filename": "AVAXUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "BCH/USDT", "filename": "BCHUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "BNB/USDT", "filename": "BNBUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "DOGE/USDT", "filename": "DOGEUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "LTC/USDT", "filename": "LTCUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "NEAR/USDT", "filename": "NEARUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "UNI/USDT", "filename": "UNIUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "BTC/USDT", "filename": "BTCUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "SOL/USDT", "filename": "SOLUSDT1H.csv", "timeframe": "1H"},
+    {"symbol": "ETH/USDT", "filename": "ETHUSDT1H.csv", "timeframe": "1H"}
+]
